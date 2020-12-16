@@ -2,7 +2,7 @@ title: Starter91
 author: Shin
 email: starter@kakao.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  설명란2
+  설명란22
 show_excerpts: false # set to true to show excerpts on the homepage
 
 paginate: 1
